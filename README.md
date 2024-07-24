@@ -1,4 +1,8 @@
 # 💫 About Me:
+I am an experienced full-stack developer and DevOps Engineer with a passion for creating robust web applications. My expertise lies in utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js) to build scalable and efficient solutions. I'm currently focusing on enhancing my DevOps skills, ensuring seamless integration and deployment pipelines for web applications. I'm also mastering Data Structures and Algorithms (DSA) to optimize application performance.
+
+Additionally, I am exploring advanced TypeScript features and best practices in Nest.js for building scalable backend applications. My curiosity extends to the realms of Artificial Intelligence (AI) and Machine Learning (ML), where I am eager to learn and apply these technologies to create intelligent and data-driven solutions.
+
 🔭 Currently Working On: Enhancing my skills in DevOps and DSA, contributing to existing projects, and creating my own projects.<br><br>🌱 Currently Learning: Exploring advanced TypeScript features and best practices in Nest.js.<br><br>👯 Looking to Collaborate On: Open-source projects related to React, Node.js, or TypeScript where I can contribute and learn from others.<br><br>💬 Ask Me About: Anything related to MERN stack development, TypeScript migration strategies, or optimizing database performance with PostgreSQL.<br><br>📫 How to Reach Me: Feel free to connect with me through GitHub or LinkedIn. You can also reach out via email at technaveedahmed@gmail.com.<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun Fact: I'm also passionate about playing football and reading books in my free time.
 
 
