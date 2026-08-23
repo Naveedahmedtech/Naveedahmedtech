@@ -4,51 +4,43 @@
 
 ### Backend Systems Engineer
 
-**Node.js · TypeScript · PostgreSQL · Reliability · AI Systems**
+Building reliable backend systems, production integrations, and AI-backed products.
 
-I build backend systems, integration layers, and AI-backed products with a focus on **clear architecture, production reliability, and measurable behavior**.
+<br />
 
-[Portfolio](https://naveedahmed.ai) · [Email](mailto:technaveedahmed@gmail.com)
+`Node.js` · `TypeScript` · `PostgreSQL` · `Reliability` · `AI Systems`
+
+<br />
+
+[**Portfolio**](https://naveedahmed.ai) · [**Email**](mailto:technaveedahmed@gmail.com)
 
 </div>
 
 ---
 
-## What I work on
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Backend
+### Rasterex
 
-`Node.js`
-`TypeScript`
-`NestJS`
-`PostgreSQL`
-`REST APIs`
+**Production & Integration Engineering**
 
-</td>
-<td width="33%" valign="top">
+On-premise technical viewer integration with a clear boundary between customer-owned applications and Rasterex-owned viewer code.
 
-### Systems
-
-`Reliability`
-`Performance`
-`Workers`
-`Redis`
-`Docker`
+`postMessage` · `SDK` · `npm` · `IIS` · `Windows Server`
 
 </td>
-<td width="33%" valign="top">
 
-### AI
+<td width="50%" valign="top">
 
-`pgvector`
-`Embeddings`
-`Retrieval`
-`Context`
-`LLM APIs`
+### PlayLight
+
+**Technical Co-Founder / Backend Engineer**
+
+Building persistent user context, retrieval, background processing, and AI integration for a personalized AI product.
+
+`NestJS` · `PostgreSQL` · `pgvector` · `Workers` · `LLM APIs`
 
 </td>
 </tr>
@@ -56,95 +48,49 @@ I build backend systems, integration layers, and AI-backed products with a focus
 
 ---
 
-## Production Work
-
-### Rasterex
-
-Engineering integration and deployment workflows for an **on-premise technical document viewer**.
-
-```text
-Customer Application
-        │
-        ▼
-postMessage / SDK
-        │
-        ▼
-Rasterex Viewer
-```
-
-My work includes:
-
-* browser `postMessage` integration
-* npm / SDK integration
-* EXE installer for MSI-based deployment
-* IIS + Windows Server setup
-* customer deployments and technical support
-
-The goal was to keep **customer-owned UI and business logic separate from Rasterex viewer code**.
-
----
-
-### PlayLight
-
-Technical Co-Founder / Backend Engineer building a personalized AI backend.
-
-```text
-Request
-  ↓
-NestJS
-  ↓
-PostgreSQL + pgvector
-  ↓
-Retrieval
-  ↓
-Context Assembly
-  ↓
-LLM
-```
-
-Current focus:
-
-`PostgreSQL` · `Embeddings` · `Background Jobs` · `Retrieval` · `Reliability` · `Observability`
-
----
-
-## Engineering Practice
-
-I like understanding systems by:
-
 <div align="center">
 
-### BUILD → MEASURE → BREAK → TRACE → FIX
+### Engineering Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+<strong>Node.js</strong><br/>
+<sub>Runtime · Load · Latency</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>PostgreSQL</strong><br/>
+<sub>Queries · Indexes · Transactions</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>Reliability</strong><br/>
+<sub>Retries · Idempotency · Workers</sub>
+</td>
+
+<td align="center" width="25%">
+<strong>AI Systems</strong><br/>
+<sub>Retrieval · Context · Evaluation</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-Current investigations:
-
-* **Node.js under load** — concurrency, event loop, p95/p99 latency
-* **PostgreSQL performance** — query plans, indexes, transactions
-* **Reliability** — retries, idempotency, worker failures
-* **AI retrieval** — relevance, user isolation, context quality
-
 ---
-
-## Current Direction
 
 ```text
-Backend Engineering
-       +
-Systems Thinking
-       +
-AI-native Engineering
-       ↓
-Owning systems and outcomes
+BUILD  →  MEASURE  →  BREAK  →  TRACE  →  FIX
 ```
-
----
 
 <div align="center">
 
-### [naveedahmed.ai](https://naveedahmed.ai)
+I care about understanding **why systems behave the way they do**,
+not only getting them to work.
 
-<sub>Build it · Measure it · Understand it</sub>
+<br />
+
+**[naveedahmed.ai](https://naveedahmed.ai)**
 
 </div>
