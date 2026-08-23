@@ -1,51 +1,150 @@
+<div align="center">
+
 # Naveed Ahmed
 
-Backend Systems Engineer focused on building and understanding
-production systems with Node.js, TypeScript, and PostgreSQL.
+### Backend Systems Engineer
 
-I currently work across:
+**Node.js · TypeScript · PostgreSQL · Reliability · AI Systems**
 
-- backend/API architecture
-- PostgreSQL and data-intensive systems
-- SDK and integration engineering
-- asynchronous workers and reliability
-- performance and production debugging
-- AI-backed systems and retrieval
+I build backend systems, integration layers, and AI-backed products with a focus on **clear architecture, production reliability, and measurable behavior**.
 
-## Current work
+[Portfolio](https://naveedahmed.ai) · [Email](mailto:technaveedahmed@gmail.com)
+
+</div>
+
+---
+
+## What I work on
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
+
+`Node.js`
+`TypeScript`
+`NestJS`
+`PostgreSQL`
+`REST APIs`
+
+</td>
+<td width="33%" valign="top">
+
+### Systems
+
+`Reliability`
+`Performance`
+`Workers`
+`Redis`
+`Docker`
+
+</td>
+<td width="33%" valign="top">
+
+### AI
+
+`pgvector`
+`Embeddings`
+`Retrieval`
+`Context`
+`LLM APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Production Work
 
 ### Rasterex
 
-Engineering integration and deployment workflows for an
-on-premise technical document viewer.
+Engineering integration and deployment workflows for an **on-premise technical document viewer**.
 
-Work includes:
+```text
+Customer Application
+        │
+        ▼
+postMessage / SDK
+        │
+        ▼
+Rasterex Viewer
+```
 
-- browser postMessage integration boundary
-- SDK/package integration
-- Windows Server / IIS deployment
-- unified installer workflow
-- customer technical integration
+My work includes:
+
+* browser `postMessage` integration
+* npm / SDK integration
+* EXE installer for MSI-based deployment
+* IIS + Windows Server setup
+* customer deployments and technical support
+
+The goal was to keep **customer-owned UI and business logic separate from Rasterex viewer code**.
+
+---
 
 ### PlayLight
 
-Technical co-founder building a personalized AI backend around:
+Technical Co-Founder / Backend Engineer building a personalized AI backend.
 
-- NestJS
-- PostgreSQL / pgvector
-- user-scoped retrieval
-- background embedding jobs
-- context assembly
-- provider boundaries
-- reliability and observability
+```text
+Request
+  ↓
+NestJS
+  ↓
+PostgreSQL + pgvector
+  ↓
+Retrieval
+  ↓
+Context Assembly
+  ↓
+LLM
+```
 
-## Engineering practice
+Current focus:
 
-Currently publishing experiments around:
+`PostgreSQL` · `Embeddings` · `Background Jobs` · `Retrieval` · `Reliability` · `Observability`
 
-- Node.js under load
-- PostgreSQL query plans and indexing
-- retries / idempotency / worker failures
-- retrieval evaluation
+---
 
-→ naveedahmed.ai
+## Engineering Practice
+
+I like understanding systems by:
+
+<div align="center">
+
+### BUILD → MEASURE → BREAK → TRACE → FIX
+
+</div>
+
+Current investigations:
+
+* **Node.js under load** — concurrency, event loop, p95/p99 latency
+* **PostgreSQL performance** — query plans, indexes, transactions
+* **Reliability** — retries, idempotency, worker failures
+* **AI retrieval** — relevance, user isolation, context quality
+
+---
+
+## Current Direction
+
+```text
+Backend Engineering
+       +
+Systems Thinking
+       +
+AI-native Engineering
+       ↓
+Owning systems and outcomes
+```
+
+---
+
+<div align="center">
+
+### [naveedahmed.ai](https://naveedahmed.ai)
+
+<sub>Build it · Measure it · Understand it</sub>
+
+</div>
