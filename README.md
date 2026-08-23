@@ -5,10 +5,10 @@ Backend Systems Engineer building reliable backend & AI systems
 </h3>
 
 <p align="center">
-  <a href="https://naveedahmed.ai">
+  <a href="https://naveedahmed.ai" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-naveedahmed.ai-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:technaveedahmed@gmail.com">
+  <a href="mailto:technaveedahmed@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
